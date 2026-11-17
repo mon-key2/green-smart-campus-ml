@@ -3,7 +3,7 @@
 Professional Training in AI 1 - Project 1.
 A regression model that predicts **`Total_Energy_Saved_kWh`** from campus sensor readings, deployed as a Streamlit app.
 
-**Live app:** `<<ADD YOUR STREAMLIT COMMUNITY CLOUD LINK HERE AFTER DEPLOYING>>`
+**Live app:** https://green-smart-campus-ml.streamlit.app/
 
 ## Results (test set, 535 rows never used for any decision)
 
