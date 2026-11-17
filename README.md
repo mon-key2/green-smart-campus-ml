@@ -81,4 +81,4 @@ A value outside the training range (for example 150 kWh) shows a warning.
 
 * The pickle files were created with scikit-learn 1.9.1, pandas 3.0.6, numpy 2.5.4 and Python 3.12. `requirements.txt` pins the same versions, because pickle files can fail to load with a different scikit-learn version.
   If you see an unpickling error after changing versions, re-run the notebook in your own environment (it recreates `models/`) and update `requirements.txt` with your versions.
-**Dataset Source:** MIT Office of Sustainability — Sustainability DataPool (https://datapool.mit.edu/), distributed as the Green Smart Campus Sustainability & Energy Dataset (`green_smart_campus_dataset.csv`).
+* **Dataset Source:** MIT Office of Sustainability — Sustainability DataPool (https://datapool.mit.edu/), distributed as the Green Smart Campus Sustainability & Energy Dataset (`green_smart_campus_dataset.csv`).
